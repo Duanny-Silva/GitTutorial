@@ -5,7 +5,7 @@ class Carro():
         self.placa = "DT986756JD"
 
     def mostrar(self):
-        print(f"A cor é: {self.cor}, da marca {self.marca} e placa {self.placa}")
+        print(f"A cor é: {self.cor}, da marca {self.marca} ")
 
 
 Carro2 = Carro()
